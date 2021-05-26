@@ -60,6 +60,7 @@
 **Exemplo de Entrada**
 ``` 
 4
+5
 0 1 
 0 2 
 1 2
@@ -78,6 +79,7 @@
 **Exemplo de Entrada**
 ``` 
 4
+5
 10 0 1
 18 1 2
 13 2 3
