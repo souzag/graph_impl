@@ -70,11 +70,11 @@
 
 ### Kruskal:
 **Entrada**:
-- `v`: Quantidade de Vértices.
-- `e`: Quantidade de Arestas.
-- `n1`: Peso da aresta.
-- `n2`: Vértice "1" da ligação de arestas.
-- `n3`: Vértice "2" da ligação de arestas.
+- `n`: Quantidade de Vértices.
+- `m`: Quantidade de Arestas.
+- `a`: Peso da aresta.
+- `b`: Vértice "1" da ligação de arestas.
+- `c`: Vértice "2" da ligação de arestas.
 
 **Exemplo de Entrada**
 ``` 
