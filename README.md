@@ -77,6 +77,7 @@
 
 **Exemplo de Entrada**
 ``` 
+4
 10 0 1
 18 1 2
 13 2 3
