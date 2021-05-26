@@ -52,10 +52,10 @@
 
 ### Topological Sort:
 **Entrada**:
-- `v`: Quantidade de Vértices.
-- `e`: Quantidade de Arestas.
-- `n1`: Vértice "1" da ligação de arestas.
-- `n2`: Vértice "2" da ligação de arestas.
+- `n`: Quantidade de Vértices.
+- `m`: Quantidade de Arestas.
+- `a`: Vértice "1" da ligação de arestas.
+- `b`: Vértice "2" da ligação de arestas.
 
 **Exemplo de Entrada**
 ``` 
