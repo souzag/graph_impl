@@ -11,12 +11,12 @@
 ## Utilização dos Algoritmos:
 ### Dijkstra:
 **Entrada**:
-`n`: Quantidade de Vértices.
-`m`: Quantidade de Arestas.
-`a`: Vértice "1" da ligação de arestas.
-`b`: Vértice "2" da ligação de arestas.
-`c`: Peso da aresta.
-`z`: Vértice no qual vai ser calculada a distância para os demais vértices.
+- `n`: Quantidade de Vértices.
+- `m`: Quantidade de Arestas.
+- `a`: Vértice "1" da ligação de arestas.
+- `b`: Vértice "2" da ligação de arestas.
+- `c`: Peso da aresta.
+- `z`: Vértice no qual vai ser calculada a distância para os demais vértices.
 
 **Exemplo de Entrada**
 ``` 
@@ -33,10 +33,10 @@
 
 ### Union Find:
 **Entrada**:
-`n`: Quantidade de Vértices.
-`m`: Quantidade de Arestas.
-`a`: Vértice "1" da ligação de arestas.
-`b`: Vértice "2" da ligação de arestas.
+- `n`: Quantidade de Vértices.
+- `m`: Quantidade de Arestas.
+- `a`: Vértice "1" da ligação de arestas.
+- `b`: Vértice "2" da ligação de arestas.
 
 **Exemplo de Entrada**
 ``` 
@@ -52,10 +52,10 @@
 
 ### Topological Sort:
 **Entrada**:
-`v`: Quantidade de Vértices.
-`e`: Quantidade de Arestas.
-`n1`: Vértice "1" da ligação de arestas.
-`n2`: Vértice "2" da ligação de arestas.
+- `v`: Quantidade de Vértices.
+- `e`: Quantidade de Arestas.
+- `n1`: Vértice "1" da ligação de arestas.
+- `n2`: Vértice "2" da ligação de arestas.
 
 **Exemplo de Entrada**
 ``` 
@@ -69,11 +69,11 @@
 
 ### Kruskal:
 **Entrada**:
-`v`: Quantidade de Vértices.
-`e`: Quantidade de Arestas.
-`n1`: Peso da aresta.
-`n2`: Vértice "1" da ligação de arestas.
-`n3`: Vértice "2" da ligação de arestas.
+- `v`: Quantidade de Vértices.
+- `e`: Quantidade de Arestas.
+- `n1`: Peso da aresta.
+- `n2`: Vértice "1" da ligação de arestas.
+- `n3`: Vértice "2" da ligação de arestas.
 
 **Exemplo de Entrada**
 ``` 
